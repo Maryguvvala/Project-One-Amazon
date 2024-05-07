@@ -1,2 +1,7 @@
 # Project-One-Amazon
-Utilized Selenium and TestNG to develop an Amazon project, incorporating the Page Object Model framework and Maven. Executed test scripts for login, product search, cart addition, product sorting, and payment functionalities, employing data-driven testing techniques.
+- &nbsp;Developed and executed automated test scripts using Selenium WebDriver and Java to validate the functionality of an ecommerce website.
+- &nbsp;Implemented Page Object Model (POM) for a modular and maintainable automation framework.
+ - &nbsp;Utilized TestNG for test case management and execution, ensuring comprehensive test coverage.
+  - &nbsp;Integrated Jenkins for automated test execution and continuous integration, enhancing testing process efficiency.
+
+
